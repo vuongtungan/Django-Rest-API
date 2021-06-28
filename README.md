@@ -23,7 +23,7 @@ cd ../Django-Rest-API
 python manage.py runserver 
 ```
 
-##License
+## License
 MIT
 
 Free software, Yeah !
